@@ -12,7 +12,7 @@ This is a comprehensive incident investigation and response process where a deta
 <br/>3, The incident response playbook based on the NIST framework.<br/>
 <br/>4, Recommended steps and policy updates to mitigate similar incidents in the future.<br/>
 
-<br/>Additionally, a presentation slideshow was provided demonstrating how penetration testing could have prevented this data breach. <a href="https://docs.google.com/presentation/d/12oFAbpfsH3tmZNftIrTJXFXJHDGaeEdu/edit?usp=sharing&ouid=105621854867187731789&rtpof=true&sd=true" target="_blank">You can also access via this link.</a><br/>
+<br/>Additionally, a presentation slideshow was provided demonstrating how penetration testing could have prevented this data breach. <a href="https://docs.google.com/presentation/d/12oFAbpfsH3tmZNftIrTJXFXJHDGaeEdu/edit?usp=sharing&ouid=105621854867187731789&rtpof=true&sd=true" target="_blank">You can also access via this link.</a> Please refer to the notes in the PowerPoint for better clarity, as the slides are intended for video presentation.<br/>
 <br/>Incident-related artifacts have also been included.<br/>
 
 <h2>Tools Used</h2>
