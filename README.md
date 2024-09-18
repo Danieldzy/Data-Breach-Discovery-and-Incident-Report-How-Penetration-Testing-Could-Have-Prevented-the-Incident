@@ -2,7 +2,7 @@
 
 <h2>Note</h2>
 
-The incidents and related artifacts in this repository are fictional and not based on real-life events. They are intended solely for learning and demonstration purposes.
+The incidents and related artifacts in this repository are fictional and not based on real-life events. They are intended solely for learning and demonstration purposes. You can download the artifacts and try reconstructing the incident yourself—it's an engaging process. More importantly, it helps us reflect on what we've learned from this incident and what measures could have been implemented to avoid it.
 
 <h2>Summary</h2>
 This is a comprehensive incident investigation and response process where a detailed report has been presented. <a href="https://drive.google.com/file/d/18IhxKcFxF26r02d9qU4Ac3UAYXNo7MKd/view?usp=sharing" target="_blank">You can also access the Report via this link.</a> The report will cover the following topics:<br/>
